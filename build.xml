@@ -8,8 +8,8 @@
                 <exec executable="${FLEX_HOME}/bin/compc.exe">
                         <arg line="-output ${OUTPUT}" />
                         <arg line="-include-sources ${LIBRARY}" />
-						<arg line="-optimize=true" />
-						<arg line="-strict=false" />
+			<arg line="-optimize=true" />
+			<arg line="-strict=false" />
                 </exec>
         </target>
 </project>
