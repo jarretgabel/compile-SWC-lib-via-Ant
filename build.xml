@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="compile-swc-lib" default="compile-swc-lib">
+<project name="swc-lib" default="compile-swc-lib">
         <property file="build.properties"/>
         <taskdef resource="flexTasks.tasks" classpath="${FLEX_HOME}/ant/lib/flexTasks.jar"/>
 		
