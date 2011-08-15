@@ -9,7 +9,7 @@
                         <arg line="-output ${OUTPUT}" />
                         <arg line="-include-sources ${LIBRARY}" />
 						<arg line="-optimize=true" />
-                        <arg line="-strict=false" />
+						<arg line="-strict=false" />
                 </exec>
         </target>
 </project>
